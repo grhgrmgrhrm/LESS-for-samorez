@@ -1,1 +1,1 @@
-# LESS-for-samorez.by
+Файл стилей для samorez.by
